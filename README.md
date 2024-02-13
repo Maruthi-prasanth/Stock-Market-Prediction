@@ -48,5 +48,13 @@ Our main aim is to make a smart computer program that can predict stock prices w
 ## Conclusion
 Our project leverages advanced machine learning, specifically LSTM, to significantly improve stock market predictions. By using LSTM neural networks, we unveil hidden patterns within historical data, empowering investors with valuable insights for informed decision-making in volatile markets. Additionally, our project serves as both a practical tool for investors and an educational resource, showcasing the fusion of machine learning and financial analysis. Moreover, our commitment to ongoing improvement ensures that our predictive model remains at the forefront of stock market prediction methodologies through continuous evaluation.
 
+## Contributions
+
+This project is the result of collaborative efforts. Contributions are welcome! If you want to contribute, please follow the [contribution guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 
